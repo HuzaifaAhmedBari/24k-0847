@@ -1,0 +1,27 @@
+Ask the user to enter MonthNumber
+IF MonthNumber == 1
+    Display "January"
+ELSE IF MonthNumber == 2
+    Display "February"
+ELSE IF MonthNumber == 3
+    Display "March"
+ELSE IF MonthNumber == 4
+    Display "April"
+ELSE IF MonthNumber == 5
+    Display "May"
+ELSE IF MonthNumber == 6
+    Display "June"
+ELSE IF MonthNumber == 7
+    Display "July"
+ELSE IF MonthNumber == 8
+    Display "August"
+ELSE IF MonthNumber == 9
+    Display "Spetember"
+ELSE IF MonthNumber == 10
+    Display "October"
+ELSE IF MonthNumber == 11
+    Display "November"
+ELSE IF MonthNumber == 11
+    Display "December"
+ELSE
+    Display "Wrong number of month entered"
