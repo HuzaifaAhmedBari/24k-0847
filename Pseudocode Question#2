@@ -8,9 +8,9 @@ Set Sum to 0
 Set Result to 0
 
 Number 1 = Number 1 * -1
-Sum = Number 1 - Number 2 - Number 3
+Set Sum to Number 1 - Number 2 - Number 3
 
-Result = Sum * -1
+Set Reult to Sum * -1
 
 Print Result
 End
