@@ -1,0 +1,14 @@
+Start
+
+Input Number 1
+Input Number 2
+Input Number 3
+
+If Number 1 > Number 2 && Number 1 > Number 3 THEN
+    Print Number 1 "is the largest number."
+Else If Number 2 > Number 1 && Number 2 > Number 3 THEN
+    Print Number 2 "is the largest number."
+Else
+    Print Number 3 "is the largest number."
+
+END
