@@ -10,7 +10,7 @@ Set Result to 0
 Number 1 = Number 1 * -1
 Set Sum to Number 1 - Number 2 - Number 3
 
-Set Reult to Sum * -1
+Set Result to Sum * -1
 
 Print Result
 End
