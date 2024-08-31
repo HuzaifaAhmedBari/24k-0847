@@ -14,7 +14,7 @@ ELSE IF operator == /
      Set divide to (number 1 / number 2)
      Display divide
 ELSE IF operator == %
-     Set Remainder to (number 1 number 2)
+     Set Remainder to (number 1 % number 2)
      Display Remainder
 Else
      Display "Wrong Operator Entered"
