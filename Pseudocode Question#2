@@ -1,0 +1,16 @@
+Start
+
+Input Number 1
+Input Number 2
+Input Number 3
+
+Set Sum to 0
+Set Result to 0
+
+Number 1 = Number 1 * -1
+Sum = Number 1 - Number 2 - Number 3
+
+Result = Sum * -1
+
+Print Result
+End
