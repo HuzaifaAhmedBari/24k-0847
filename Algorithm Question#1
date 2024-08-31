@@ -1,0 +1,14 @@
+Ask the user to enter Number
+Ask the user to enter divisor
+
+Set Result to (Number % divisor)
+IF Result == 0 Then
+   Display "It is a divisor"
+ELSE
+   Display " It is not a divisor"
+
+Set Remainder to (Number % 2)
+IF Remainder == 0 Then
+   Display "It is aan even number"
+ELSE
+   Display " It is an odd number"
