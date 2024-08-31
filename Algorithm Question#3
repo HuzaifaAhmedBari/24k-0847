@@ -1,0 +1,20 @@
+Ask the user to enter number 1
+Ask the user to enter number 2
+Ask the user to enter operator
+IF operator == +
+     Set sum to (number 1 + number 2)
+     Display Sum
+ELSE IF operator == -
+     Set sub to (number 1 - number 2)
+     Display Sub
+ELSE IF operator == *
+     Set product to (number 1 * number 2)
+     Display product
+ELSE IF operator == /
+     Set divide to (number 1 / number 2)
+     Display divide
+ELSE IF operator == %
+     Set Remainder to (number 1 number 2)
+     Display Remainder
+Else
+     Display "Wrong Operator Entered"
