@@ -21,7 +21,7 @@ ELSE IF MonthNumber == 10
     Display "October"
 ELSE IF MonthNumber == 11
     Display "November"
-ELSE IF MonthNumber == 11
+ELSE IF MonthNumber == 12
     Display "December"
 ELSE
     Display "Wrong number of month entered"
