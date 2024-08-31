@@ -9,6 +9,6 @@ ELSE
 
 Set Remainder to (Number % 2)
 IF Remainder == 0 Then
-   Display "It is aan even number"
+   Display "It is an even number"
 ELSE
    Display " It is an odd number"
