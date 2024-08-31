@@ -1,0 +1,19 @@
+Start
+
+Input Number 1
+Input Number 2
+Input Operator
+
+Set Sum to 0
+Set Sub to 0
+
+IF Operator == +
+    Set Sum to Number 1 + Number 2
+    Print Sum
+Else IF Operator == -
+    Set Sub to Number 1 - Number 2
+    Print Sub
+Else 
+    Print "Wrong Operator Entered"
+
+End
