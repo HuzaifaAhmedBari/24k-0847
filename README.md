@@ -4,4 +4,4 @@
 - I have studied Pre-Engineering at Commecs College
 - I am studing CS at Fast university
  
-<img src="https://github.com/user-attachments/assets/090f6e92-064f-473e-b928-064e2f65dc11" width="20">
+<img src="https://github.com/user-attachments/assets/090f6e92-064f-473e-b928-064e2f65dc11" width="100">
